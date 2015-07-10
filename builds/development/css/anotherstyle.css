@@ -21,9 +21,7 @@
 }
 
 */
-h1,h2,h3{
-    font-family: "quadon",Georgia,serif;
-}
+
 h1 .h1-content{
     background: #8CBFD2;
     padding-left: 10px;
@@ -33,4 +31,11 @@ pre.center{
     width: 60%;
     border: #F2773F solid;
 }
+.col-md-40, .col-md-50{
+    border-color:#fff;
+    height: 550px;
 
+}
+html, .container{
+    background: #000;
+}
